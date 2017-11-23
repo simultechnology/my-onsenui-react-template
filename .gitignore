@@ -1,0 +1,6 @@
+node_modules
+
+/* remove font files */
+*.eot
+*.svg
+*.ttf
